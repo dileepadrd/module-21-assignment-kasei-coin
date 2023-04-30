@@ -78,3 +78,6 @@ Gamache screen
 
 !["Testing"](./Images/16_TestGanache.png)
 
+Total supply
+
+!["Testing"](./Images/17_TestTotalTokenSupply.png)
