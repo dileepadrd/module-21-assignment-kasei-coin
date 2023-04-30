@@ -39,3 +39,37 @@ Importing accounts
 After account imported
 
 !["Importing accounts"](./Images/07_DeploymentMetamaskAfterImport.png)
+
+### Deployer Contract Deployment
+
+Deploying the deployer contract.
+
+!["Deployment"](./Images/08_DeploymentDeployerContract.png)
+
+After deploying the deployer contract
+
+!["Deployment"](./Images/09_DeploymentAfterDeplpoyingTheDeployerContract.png)
+
+### CrowdSale Contract Deployment
+
+Deploying the crowdsale contract.
+
+!["Deployment"](./Images/10_DeployCrowdSaleContract.png)
+
+After the crowdsale contract has been deployed
+
+!["Deployment"](./Images/11_DeployAfterCrowdSaleDeplopyemnt.png)
+
+### Buy Tokens
+
+Buying tokens
+
+!["Testing"](./Images/12_TestingBuyTokens.png)
+
+After buying tokens
+
+!["Testing"](./Images/14_TestBuySecondTokens.png)
+
+Meta Mask Activity History
+
+!["Testing"](./Images/15_TestMetaMaskActivities.png)
