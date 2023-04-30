@@ -73,3 +73,8 @@ After buying tokens
 Meta Mask Activity History
 
 !["Testing"](./Images/15_TestMetaMaskActivities.png)
+
+Gamache screen
+
+!["Testing"](./Images/16_TestGanache.png)
+
