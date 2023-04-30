@@ -19,3 +19,23 @@ The following image shows the compliing proecss of the KaseiCoin Crowdsale Contr
 The screen of the deployer contract.
 
 !["Deployer contract"](./Images/03_CompilingDeploymentContract.png)
+
+### Deployment
+
+Opening the Gamache
+
+!["Deployer contract"](./Images/04_deployment_gamache.png)
+
+Gamache after loaded
+
+!["Deployer contract"](./Images/05_DeploymentGamacheLoaded.png)
+
+### MetaMask
+
+Importing accounts
+
+!["Importing accounts"](./Images/06_DeploymentMetamaskImportingAccount.png)
+
+After account imported
+
+!["Importing accounts"](./Images/07_DeploymentMetamaskAfterImport.png)
